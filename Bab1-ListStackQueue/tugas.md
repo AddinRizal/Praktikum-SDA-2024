@@ -65,7 +65,7 @@ Suatu saat Ronald ingin mengurutkan tumpukan buku tersebut agar terurut dan menj
 
 Buatlah program yang mensimulasikan permasalahan tersebut menggunakan stack! Program tidak harus menampilkan isi stack ke layar ataupun menerima input. Asisten akan menilai ketepatan dari source code yang dibuat.
 
-**DILARANG KERAS MEMBUAT ULANG STACK**
+**DILARANG KERAS MEMBUAT STACK BARU**
 
 ## No. 3 - Queue
 
