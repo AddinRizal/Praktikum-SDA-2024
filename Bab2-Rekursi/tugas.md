@@ -6,7 +6,7 @@
    (deret fibonacci akan digenerate hingga bilangan ke n yang di mana n adalah user input tersebut).
 2. Deret fibonacci yang sudah digenerate akan dimasukkan ke dalam **QUEUE**.
 3. Tampilkan deret fibonacci yang sudah digenerate dan tampilkan hasil penjumlahan dari seluruh elemen dalam **QUEUE** tadi.
-4. Gunakan header '<queue>' saja untuk program ini.
+4. Gunakan header `<queue>` saja untuk program ini.
 
 Contoh output:
 ```
