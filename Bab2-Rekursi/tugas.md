@@ -2,10 +2,10 @@
 
 ## Buatlah program dalam bahasa C++ yang menggunakan FUNGSI REKURSIF dan mengimplementasikan STRUKTUR DATA QUEUE seperti berikut:
 
-1. Program menerima user input yang di mana user input ini akan digunakan untuk men-generate deret fibonacci dengan menggunakan FUNGSI REKURSIF
+1. Program menerima user input yang di mana user input ini akan digunakan untuk men-generate deret fibonacci dengan menggunakan **FUNGSI REKURSIF**
    (deret fibonacci akan digenerate hingga bilangan ke n yang di mana n adalah user input tersebut).
-2. Deret fibonacci yang sudah digenerate akan dimasukkan ke dalam QUEUE.
-3. Tampilkan deret fibonacci yang sudah digenerate dan tampilkan hasil penjumlahan dari seluruh elemen dalam QUEUE tadi.
+2. Deret fibonacci yang sudah digenerate akan dimasukkan ke dalam **QUEUE**.
+3. Tampilkan deret fibonacci yang sudah digenerate dan tampilkan hasil penjumlahan dari seluruh elemen dalam **QUEUE** tadi.
 4. Gunakan header <queue> saja untuk program ini.
 
 Contoh output:
