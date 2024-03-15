@@ -17,7 +17,7 @@ Hasil penjumlahan queue fibonacci:
 
 Note :
 - Gunakan bahasa C++
-- Gunakan header <queue> supaya program lebih cepat dan efisien
+- Gunakan header `<queue>` supaya program lebih cepat dan efisien
 - Kumpulkan semua source code pada assignment Google Classroom (jangan di-ZIP), 
   diberi format: NamaKelas_PSDA02_NIM_NamaLengkap.cpp,
 	contoh: A_PSDA02_L0122002_AbrahamWillemHersubagyo.cpp
