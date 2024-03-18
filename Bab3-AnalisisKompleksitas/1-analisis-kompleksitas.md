@@ -2,6 +2,27 @@
 
 Pada semester pertama kita telah mempelajari bagaimana membuat algoritma untuk menyelesaikan suatu masalah. Namun, hal tersebut tidak sajalah cukup. Algoritma tidak saja harus benar (efektif), tetapi juga harus mangkus (efisien). Sehingga dapat dikatakan bahwa algoritma yang baik adalah algoritma yang mangkus. Kemangkusan suatu algoritma diukur dari sisi waktu (time) eksekusi serta penggunaan memori (space).
 
+# Big O Notation
+
+Analisis simpel untuk menyatakan efisiensi (waktu atau memori) suatu program terhadap banyak input N
+- Mengetahui banyak operasi yang akan terjadi dalam kasus terburuk
+- Mengetahui program mana yang berjalan lebih efisien
+
+# Tata cara penulisan Big O
+- Hitung banyak operasi!
+- Hilangkan konstanta
+- O(1) dapat dihilangkan jika terdapat big O yang lebih besar
+
+```cpp
+// ...
+Misal: 5 * N => O(N)
+9*N + 8*M => O(N + M)
+Binary search => O(Log N)
+
+(C++ dapat menjalankan 10^8 operasi perdetik!)
+// ...
+```
+
 ## 1 - Notasi Asimtotik
 
 Terdapat beberapa jenis notasi asimtotik, tetapi kita hanya akan menggunakan dan membahas satu notasi saja, yaitu notasi Big-O. Big-O dipilih karena merupakan notasi yang paling populer dan paling banyak digunakan pada kalangan peneliti ilmu komputer. Notasi Big-O digunakan untuk mengkategorikan algoritma ke dalam fungsi yang menggambarkan batas atas (upper limit) dari pertumbuhan sebuah fungsi ketika masukan dari fungsi tersebut bertambah banyak.
