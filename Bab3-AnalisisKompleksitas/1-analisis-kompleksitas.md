@@ -16,7 +16,7 @@ Analisis simpel untuk menyatakan efisiensi (waktu atau memori) suatu program ter
 ```cpp
 // ...
 Misal: 5 * N => O(N)
-9*N + 8*M => O(N + M)
+9 * N + 8 * M => O(N + M)
 Binary search => O(Log N)
 
 (C++ dapat menjalankan 10^8 operasi perdetik!)
