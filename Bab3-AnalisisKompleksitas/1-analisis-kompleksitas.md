@@ -12,6 +12,7 @@ Analisis simpel untuk menyatakan efisiensi (waktu atau memori) suatu program ter
 - Hitung banyak operasi!
 - Hilangkan konstanta
 - O(1) dapat dihilangkan jika terdapat big O yang lebih besar
+- Big O mengambil kasus worst case 
 
 ```cpp
 // ...
@@ -75,11 +76,15 @@ for (i = 0; i < N; i++) {
 // ...
 ```
 
-Kode di atas berjalan total  
-= N + (N – 1) + (N – 2) + … 1 + 0  
-= N (N + 1) / 2  
-= 1/2 N^2 + 1/2 N  
+Kode diatas loop kedua: 
+= N(N - 1) - N(N-1)/2 
+= (2N(N - 1) - N(N - 1))/2
+= N(N - 1)/2 
 O(N^2) kali.
+
+Jadi total kompleksitas:
+O(N) x O(N(N - 1)/2) = O(N^2(N - 1)/2) 
+Sehingga, kompleksitas waktu dari program ini adalah O(N^2)
 
 ### O (log N): Logartimik
 
