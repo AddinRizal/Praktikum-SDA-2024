@@ -77,12 +77,17 @@ for (i = 0; i < N; i++) {
 ```
 
 Kode diatas loop kedua: 
+
 = N(N - 1) - N(N-1)/2 
+
 = (2N(N - 1) - N(N - 1))/2
+
 = N(N - 1)/2 
+
 O(N^2) kali.
 
 Jadi total kompleksitas:
+
 O(N) x O(N(N - 1)/2) = O(N^2(N - 1)/2) 
 Sehingga, kompleksitas waktu dari program ini adalah O(N^2)
 
