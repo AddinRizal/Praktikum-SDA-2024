@@ -32,7 +32,7 @@ Untuk setiap bilangan, cetak sebuah baris berisi **YA** apabila bilangan tersebu
 ### Contoh Keluaran
 
 ```cpp
-BUKAN
+YA
 YA
 YA
 YA
