@@ -46,9 +46,13 @@ Lalu, kita dapat mendefinisikan `node` - `node` yang akan kita gunakan pada main
 
 ```cpp
 // ...
-Node root(5);
-Node child_0_0(3);
-Node child_0_1(4);
+Node root(5);          // Node utama dengan nilai data 5
+Node child_0_0(3);     // Node anak pertama dengan nilai data 3
+Node child_0_1(4);     // Node anak kedua dengan nilai data 4
+
+// Menambahkan node anak ke root
+root.m_children.push_back(child_0_0);
+root.m_children.push_back(child_0_1);
 // ...
 ```
 
