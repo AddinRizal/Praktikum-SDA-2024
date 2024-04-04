@@ -36,9 +36,12 @@ Kita juga dapat menambahkan constructor untuk mempermudah pemrograman kita
 
 ```cpp
 // ...
-Node(int data) {
-    m_data = data;
-}
+struct Node {
+    int m_data;
+    vector<Node> m_children;
+
+    Node(int data) : m_data(data) {}
+};
 // ...
 ```
 
