@@ -119,9 +119,6 @@ Postorder
   3. Proses node tersebut
 ```
 
-> Untuk penggunaan Tree traversal secara interaktif, silakan melihat video praktikum
-Kita dapat membuat metode traversal kita seperti potongan di bawah ini. Perhatikan bagaimana kita menggunakan `depth` untuk memberikan _style_ ke kode kita supaya lebih mudah dipahami hubungannya dengan `node` lainnya (apakah ancestor, sibling, atau descendant).
-
 ```cpp
 // ...
 void _preOrder(unsigned int depth = 0) {
