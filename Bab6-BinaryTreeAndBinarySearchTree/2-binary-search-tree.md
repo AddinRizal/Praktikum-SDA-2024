@@ -31,6 +31,7 @@ struct node* search(struct node* root, int key)
 	return search(root->right, key);
 
 	// Key is smaller than root's key
+	else
 	return search(root->left, key);
 }
 ```
