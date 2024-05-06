@@ -5,6 +5,8 @@ Bubble sort adalah algoritma pengurutan sederhana yang bekerja dengan membanding
 
 ![Ilustrasi Bubblesort](https://github.com/Alfurqon02/Praktikum-SDA-2023/blob/main/Bab8-Sorting/img/bubblesort.jpg)
 
+[Ilustrasi Bubble Sort](https://visualgo.net/en/sorting)
+
 ### Kelebihan
 - Implementasi yang sederhana.
 - Cocok untuk data yang hampir terurut
