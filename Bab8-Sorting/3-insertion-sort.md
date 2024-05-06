@@ -5,6 +5,8 @@ Insertion sort adalah algoritma pengurutan sederhana yang bekerja dengan membagi
 
 ![Ilustrasi Insertion Sort](https://github.com/Alfurqon02/Praktikum-SDA-2023/blob/main/Bab8-Sorting/img/insertionsort.jpg)
 
+[Ilustrasi Insertion Sort](https://visualgo.net/en/sorting)
+
 ### Kelebihan
 - Sederhana dan mudah dipahami
 - Efisien untuk jumlah data yang hampir terurut
