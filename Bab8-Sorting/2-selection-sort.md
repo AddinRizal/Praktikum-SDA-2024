@@ -5,6 +5,8 @@ Selection sort adalah algoritma pengurutan sederhana yang bekerja dengan mencari
 
 ![Ilustrasi Selection Sort](https://github.com/Alfurqon02/Praktikum-SDA-2023/blob/main/Bab8-Sorting/img/selectionsort.png)
 
+[Ilustrasi Selection Sort](https://visualgo.net/en/sorting)
+
 ### Kelebihan
 - Sederhana dan mudah dipahami
 - Dapat menjaga urutan relatif dari elemen elemen yang sama
