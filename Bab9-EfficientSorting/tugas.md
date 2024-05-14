@@ -17,7 +17,4 @@ Pastikan untuk menguji setiap implementasi dengan memberikan input yang berbeda,
 ## Format Pengumpulan
 Kelas_PSDA06_NIM_NamaLengkap.cpp
 
-Contoh: C_PSDA06_L0522001_AndrianKornelis.cpp
-
-## Batas Pengumpulan
-12 Juli 2023, 23:59pm
+Contoh: A_PSDA06_L0122003_AddinHadiRizal.cpp
